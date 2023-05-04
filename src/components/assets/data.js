@@ -1,4 +1,4 @@
-const data = [
+const informations = [
   {
     id: 1,
     img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZgN3mM3stlhsRJQGy6C6DevzxAgX1u6QBgg&usqp=CAU",
@@ -18,6 +18,7 @@ const data = [
   {
     id: 3,
     name: "Erkan Güneş",
+    img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPevo9fuGWQOR7XYgCQHjrx-8_pdcTiWJDbQ&usqp=CAU",
     job:"Frontend-Developer",
     about:
       "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Amet hic cumque iure eaque culpa accusamus magnam autem incidunt aut aspernatur! Nihil eius recusandae voluptas nam fugiat similique facilis fuga et!",
@@ -25,6 +26,7 @@ const data = [
   {
     id: 4,
     name: "Yusuf Gümüş",
+    img:"https://muhendistan.com/wp-content/uploads/2019/05/M%C3%BChendis.M%C3%BChendistan-1.jpg",
     job:"Frontend-Developer",
     about:
       "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Amet hic cumque iure eaque culpa accusamus magnam autem incidunt aut aspernatur! Nihil eius recusandae voluptas nam fugiat similique facilis fuga et!",
@@ -39,4 +41,4 @@ const data = [
   },
 ];
 
-export default data;
+export default informations;
