@@ -39,6 +39,14 @@ const informations = [
     about:
       "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Amet hic cumque iure eaque culpa accusamus magnam autem incidunt aut aspernatur! Nihil eius recusandae voluptas nam fugiat similique facilis fuga et!",
   },
+  {
+    id: 6,
+    name: "Arda Güler",
+    img:"https://www.islamveihsan.com/wp-content/uploads/2022/06/ogretmen-ne-demek-187882.jpg",
+    job:"Teacher",
+    about:
+      "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Amet hic cumque iure eaque culpa accusamus magnam autem incidunt aut aspernatur! Nihil eius recusandae voluptas nam fugiat similique facilis fuga et!",
+  },
 ];
 
 export default informations;

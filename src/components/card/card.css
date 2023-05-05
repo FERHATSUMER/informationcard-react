@@ -11,13 +11,11 @@
 
 
 .card-container {
-  background-image: url(https://1.bp.blogspot.com/-Ch05JvXLM_M/WFg2gS4SRDI/AAAAAAAANls/hAjSrFATdMM5ZiURE0jr2JbPyCK0TSanACLcB/s1600/black-background-2.jpg);
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
   align-items: center;
   height: 100vh;
-  background-color: #f8f8f8;
   padding: 20px;
   box-sizing: border-box;
 }

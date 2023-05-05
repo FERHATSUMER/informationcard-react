@@ -29,7 +29,6 @@
   }
   
   .nav ul li:hover {
-    background-color: #2c7cb9;
     transition: all 0.2s ease-in-out;
   }
   
