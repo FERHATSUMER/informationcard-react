@@ -19,7 +19,7 @@ const informations = [
     id: 3,
     name: "Erkan Güneş",
     img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPevo9fuGWQOR7XYgCQHjrx-8_pdcTiWJDbQ&usqp=CAU",
-    job:"Frontend-Developer",
+    job:"Turkish Airlines pilot",
     about:
       "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Amet hic cumque iure eaque culpa accusamus magnam autem incidunt aut aspernatur! Nihil eius recusandae voluptas nam fugiat similique facilis fuga et!",
   },
@@ -27,7 +27,7 @@ const informations = [
     id: 4,
     name: "Yusuf Gümüş",
     img:"https://muhendistan.com/wp-content/uploads/2019/05/M%C3%BChendis.M%C3%BChendistan-1.jpg",
-    job:"Frontend-Developer",
+    job:"Engineer",
     about:
       "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Amet hic cumque iure eaque culpa accusamus magnam autem incidunt aut aspernatur! Nihil eius recusandae voluptas nam fugiat similique facilis fuga et!",
   },
@@ -35,7 +35,7 @@ const informations = [
     id: 5,
     name: "Burak Solmaz",
     img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUV8lbFY52c4wHulrXwLbw5YuJ0rMhm9T0oA&usqp=CAU",
-    job:"Frontend-Developer",
+    job:"Student",
     about:
       "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Amet hic cumque iure eaque culpa accusamus magnam autem incidunt aut aspernatur! Nihil eius recusandae voluptas nam fugiat similique facilis fuga et!",
   },
